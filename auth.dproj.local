@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2024/08/13 19:49:32.000.253,C:\Users\leandro\Documents\repos\Treinamento_Api_Delphi\auth\auth.dproj=C:\Users\leandro\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2024/08/14 00:08:40.000.191,=C:\Users\leandro\Documents\repos\Treinamento_Api_Delphi\auth\Unit1.pas</Transaction>
+    <Transaction>2024/08/14 00:10:45.000.016,C:\Users\leandro\Documents\repos\Treinamento_Api_Delphi\auth\Unit1.pas=C:\Users\leandro\Documents\repos\Treinamento_Api_Delphi\auth\src\controllers\Controllers_Auth.pas</Transaction>
+    <Transaction>2024/08/14 00:21:26.000.559,=C:\Users\leandro\Documents\repos\Treinamento_Api_Delphi\auth\src\providers\Providers_Connection.pas</Transaction>
+    <Transaction>2024/08/14 00:24:30.000.361,=C:\Users\leandro\Documents\repos\Treinamento_Api_Delphi\auth\Unit1.pas</Transaction>
+    <Transaction>2024/08/14 00:26:35.000.978,C:\Users\leandro\Documents\repos\Treinamento_Api_Delphi\auth\Unit1.dfm=C:\Users\leandro\Documents\repos\Treinamento_Api_Delphi\auth\src\services\Services_Auth.dfm</Transaction>
+    <Transaction>2024/08/14 00:26:35.000.978,C:\Users\leandro\Documents\repos\Treinamento_Api_Delphi\auth\Unit1.pas=C:\Users\leandro\Documents\repos\Treinamento_Api_Delphi\auth\src\services\Services_Auth.pas</Transaction>
+  </Transactions>
+</BorlandProject>

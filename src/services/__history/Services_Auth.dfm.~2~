@@ -1,0 +1,7 @@
+inherited ServicesAuth: TServicesAuth
+  object qryLogin: TFDQuery
+    Connection = FDConnection
+    Left = 336
+    Top = 232
+  end
+end
